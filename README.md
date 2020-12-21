@@ -2,10 +2,11 @@
 
 
 <p align = "center">
-<img src="intro.gif" alt="Programmer">
+<img src="intro.gif" width="400" height="400">
 </p>
 
-### This is Asmany Akter, Proudly introducing myself as a compititive programmer😎. Solved 450+ Programming Problems on [Codeforce](https://codeforces.com/profile/Asmany_Akter) , [Vjudge](https://vjudge.net/user/Asmany_Akter) , [UVa](https://uhunt.onlinejudge.org/id/971474) ,and [AtCoder](https://atcoder.jp/users/Asmany).
+<h1 align= "center">This is Asmany Akter, Proudly introducing myself as a compititive programmer😎. </h1>
+
 <br>
 <br>
 
