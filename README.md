@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+<p align = "center">
+<img src="intro.gif.gif" alt="Programmer">
+</p>
+
+<p align="center">
+
+This is Asmany Akter, Proudly introducing myself as a compititive programmer.😎
+
+</p>
+<br>
+<br>
+
 <!--
 **AsmanyAkter/AsmanyAkter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
