@@ -5,7 +5,7 @@
 <img src="intro.gif" alt="Programmer">
 </p>
 
-<h3 align="center">This is Asmany Akter, Proudly introducing myself as a compititive programmer😎. Solved 450+ Programming Problems on [Codeforce](https://codeforces.com/profile/Asmany_Akter) , [Vjudge](https://vjudge.net/user/Asmany_Akter) , [UVa](https://uhunt.onlinejudge.org/id/971474) , [AtCoder](https://atcoder.jp/users/Asmany). </h3>
+##This is Asmany Akter, Proudly introducing myself as a compititive programmer😎. Solved 450+ Programming Problems on [Codeforce](https://codeforces.com/profile/Asmany_Akter) , [Vjudge](https://vjudge.net/user/Asmany_Akter) , [UVa](https://uhunt.onlinejudge.org/id/971474) , [AtCoder](https://atcoder.jp/users/Asmany).
 <br>
 <br>
 
