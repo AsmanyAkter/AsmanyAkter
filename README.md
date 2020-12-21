@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="asmany2016@email.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href=mailto:asmany2016@email.com target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/asmany-akter-212894192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/13851735/asmany-akter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.instagram.com/asmany_akter/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
