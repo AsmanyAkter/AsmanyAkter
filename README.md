@@ -5,7 +5,7 @@
 <img src="intro.gif" alt="Programmer">
 </p>
 
-<h3 align="center">This is Asmany Akter, Proudly introducing myself as a compititive programmer.😎 </h3>
+<h3 align="center">This is Asmany Akter, Proudly introducing myself as a compititive programmer😎. Solved 450+ Programming Problems on Codeforce , Vjudge , UVa , AtCoder. </h3>
 <br>
 <br>
 
