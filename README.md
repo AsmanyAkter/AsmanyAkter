@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-<img src="intro.gif.gif" alt="Programmer">
+<img src="intro.gif" alt="Programmer">
 </p>
 
 <p align="center">
