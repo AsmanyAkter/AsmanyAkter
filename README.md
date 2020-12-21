@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-<img src="intro.gif" width="400" height="400">
+<img src="intro.gif" width="600" height="400">
 </p>
 
 <h1 align= "center">This is Asmany Akter, Proudly introducing myself as a compititive programmer😎. </h1>
