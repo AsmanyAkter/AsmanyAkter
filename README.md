@@ -5,7 +5,7 @@
 <img src="intro.gif" alt="Programmer">
 </p>
 
-<p align="center">This is Asmany Akter, Proudly introducing myself as a compititive programmer.😎 </p>
+<h1 align="center">This is Asmany Akter, Proudly introducing myself as a compititive programmer.😎 </h1>
 <br>
 <br>
 
